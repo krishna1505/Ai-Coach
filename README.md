@@ -41,25 +41,7 @@
 - `sonner` for toasts and UI alerts
 - `react-spinners` for loading states
 
----
 
-## 📸 Screenshots
-
-> 📌 Add your UI screenshots here (place images in `/screenshots` folder):
-
-### 🏠 Home Page  
-![Home Page](./screenshots/home.png)
-
-### 📄 Resume Generator  
-![Resume Generator](./screenshots/resume.png)
-
-### 📝 Cover Letter Generator  
-![Cover Letter](./screenshots/cover-letter.png)
-
-### 🎤 Mock Interview  
-![Mock Interview](./screenshots/mock-interview.png)
-
----
 
 ## 🚀 Getting Started
 
@@ -76,4 +58,4 @@ Contributions are welcome! If you want to fix a bug, add a feature, or improve t
 📃 License
 This project is licensed under the MIT License.
 
-<div align="center"> <strong>Made with ❤️ by Krishna Mohan Yadav</strong><br/> <a href="https://github.com/krishnacodes-dev">🌐 GitHub</a> • <a href="https://www.linkedin.com/in/krishnamohanyadav/">💼 LinkedIn</a> </div> ```
+<div align="center"> <strong>Made with ❤️ by Krishna Mohan Yadav</strong>
